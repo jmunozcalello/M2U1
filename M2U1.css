@@ -1,0 +1,44 @@
+body 
+{
+    transition: background-color 0.5s;
+}
+button
+{
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+}
+.contenedor-de-botones
+{
+    text-align: center;
+}
+.botonrojo
+{
+    background-color: crimson;
+    color:white;
+}
+.rojo 
+{
+    background-color: red;
+    color: white;
+}
+.botonverde
+{
+    background-color:darkolivegreen;
+    color: white;
+}
+.verde 
+{
+    background-color: green;
+    color: black;
+}
+.botonazul
+{
+    background-color:darkslateblue;
+    color: white;
+}
+.azul
+{
+    background-color: blue;
+    color:darkcyan;
+}
